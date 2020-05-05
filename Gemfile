@@ -1,3 +1,7 @@
 source "https://rubygems.org"
 
-gemspec
+gem 'jekyll'
+gem 'jekyll-sitemap'
+gem 'jekyll-mentions'
+gem 'jekyll-paginate'
+gem 'jekyll-seo-tag'
